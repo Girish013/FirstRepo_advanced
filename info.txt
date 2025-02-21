@@ -1,0 +1,6 @@
+
+
+commit #2 during squash activity 
+
+commit #3 addign commit no 3 for this process 
+
